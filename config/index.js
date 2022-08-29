@@ -41,8 +41,7 @@ export const config = {
     /** 好文节选 */
 
     // 好文节选的内容类型
-    // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 "你风尘仆仆地奔向我胜过所有遥远的温柔
-    You come to me in a dusty way, better than all the distant gentleness"
+    // 可以填写【动画，漫画，游戏，小说，原创，网络，其他】； 随机则填写 "你风尘仆仆地奔向我胜过所有遥远的温柔"
     LITERARY_PREFERENCE: ""
 
 
